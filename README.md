@@ -4,7 +4,7 @@
 ### Задание 1
 
 [playbook](./main.tf)
-![Load Balancer webpage](./nginx.png)
-![Statuses](./statuses.png)
+![Load Balancer webpage](./img/nginx.png)
+![Statuses](./img/statuses.png)
 
 ---
