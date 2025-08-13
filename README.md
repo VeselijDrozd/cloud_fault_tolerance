@@ -3,8 +3,8 @@
 
 ### Задание 1
 
-[playbook](./main.tf)
-![Load Balancer webpage](./img/nginx.png)
-![Statuses](./img/statuses.png)
+[playbook](./main.tf)  
+![Load Balancer webpage](./img/nginx.png)  
+![Statuses](./img/statuses.png)  
 
 ---
